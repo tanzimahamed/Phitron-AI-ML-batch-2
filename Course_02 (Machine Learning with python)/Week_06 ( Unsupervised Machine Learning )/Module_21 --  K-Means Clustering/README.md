@@ -5,5 +5,5 @@
 - Dimensionality Reduction (PCA)
 
 ## 📁 Contents
-- Module_20 - Support Vector Machine
+- Module_21 - K-Means Clustering
 - ...

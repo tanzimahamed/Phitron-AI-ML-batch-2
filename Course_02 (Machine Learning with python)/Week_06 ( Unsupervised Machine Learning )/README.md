@@ -8,4 +8,4 @@
 - Module_21 - K-Means Clustering
 - Module_22 - DBSCAN (Density-Based Spatial Clustering of Applications with Noise) 
 - Module_23 - Principal Component Analysis (PCA)
-- module=24 - Final Exam 
+- module_24 - Final Exam 
